@@ -1,0 +1,37 @@
+
+body{
+  background-color: rgb(167, 99, 99);
+}
+
+
+.banner_principal{
+  padding-top: 25px;
+  margin-left: 125px;
+}
+
+
+.filmes img{
+  width: 100px;
+}
+
+.banner_principal2 {
+
+    width: 150px;
+    margin-top: 40px;
+    margin-left: 125px;
+    justify-content: center;
+    align-items: center;
+
+  }
+
+  .nomes{
+    margin-left: 20px;
+    
+  }
+
+  .pFo{
+    margin-left: 0px;
+  }
+
+
+  
